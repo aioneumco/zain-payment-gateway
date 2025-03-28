@@ -1,0 +1,53 @@
+msgid "Enable/Disable"
+msgstr "تفعيل/تعطيل"
+
+msgid "Enable Zain Payment"
+msgstr "تفعيل الدفع عبر زين"
+
+msgid "Payment Method Title"
+msgstr "عنوان طريقة الدفع"
+
+msgid "Title displayed to the customer during checkout."
+msgstr "العنوان الذي يظهر للعميل أثناء الدفع."
+
+msgid "Zain Payment"
+msgstr "الدفع عبر زين"
+
+msgid "Payment Method Description"
+msgstr "وصف طريقة الدفع"
+
+msgid "Description displayed to the customer during checkout."
+msgstr "الوصف الذي يظهر للعميل أثناء الدفع."
+
+msgid "Please select this method to pay via Zain balance transfer."
+msgstr "يرجى اختيار هذه الطريقة للدفع عبر تحويل رصيد زين."
+
+msgid "Admin Phone Number"
+msgstr "رقم الادمن"
+
+msgid "Phone number to receive the transfer."
+msgstr "رقم الهاتف الذي يتم التحويل إليه."
+
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+msgid "Pay by Cart Total"
+msgstr "دفع بمبلغ السلة"
+
+msgid "Pay by Fixed Categories"
+msgstr "دفع بفئات محددة"
+
+msgid "Available Categories"
+msgstr "الفئات المتاحة"
+
+msgid "Enter categories separated by commas (e.g., 5000,10000,25000,50000)"
+msgstr "أدخل الفئات مفصولة بفواصل (5000,10000,25000,50000)"
+
+msgid "Select a Category:"
+msgstr "اختر فئة:"
+
+msgid "Pay via Zain"
+msgstr "الدفع عبر زين"
+
+msgid "Your order will be processed after payment confirmation. Thank you."
+msgstr "سيتم معالجة طلبك بعد تأكيد استلام المبلغ. شكراً لاستخدامك خدمتنا."
