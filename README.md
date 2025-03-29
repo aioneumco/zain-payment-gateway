@@ -44,3 +44,4 @@ No, this plugin is specifically designed to integrate with Zain's "عبّيله�
 
 = 1.0 =
 Initial release.
+![Asia Cell Payment](https://github.com/aioneumco/zain-payment-gateway/blob/main/wc-zain-gateway/images/asia-cell-payment-(1).png?raw=true)
